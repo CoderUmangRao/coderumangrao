@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Frontend Web Developer
+I'm also a Backend Web Developer
+master in HTML,CSS,JAVASCRIPT,JQUERY,REACT,REACT API,
